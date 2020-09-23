@@ -1,0 +1,14 @@
+APIStuff = 0, 0, 0, 0, C
+CDPlayermod = 0, 0, 0, 0, C
+Closemodul1 = 0, 0, 0, 0, C
+Closemodul = 0, 0, 0, 0, C
+frmCDplayer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmMain = 0, 0, 0, 0, C, 44, 44, 522, 484, C
+frmProgramCloser = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmHtml = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSpeed = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSplash = 0, 0, 0, 0, C, 66, 66, 544, 506, C
+frmMail = 0, 0, 0, 0, C, 154, 154, 632, 594, C
+frmPortScanner = 0, 0, 0, 0, C, 132, 132, 610, 572, C
+frmViewer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmWeb = 0, 0, 0, 0, C, 0, 0, 0, 0, C
